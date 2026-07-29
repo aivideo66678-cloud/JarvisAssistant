@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Jarvis</string>
+    <string name="status_idle">Tap the mic or say "Jarvis"</string>
+    <string name="status_listening">Listening…</string>
+</resources>
