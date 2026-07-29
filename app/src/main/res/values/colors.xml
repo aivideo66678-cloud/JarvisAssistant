@@ -1,0 +1,6 @@
+<resources>
+    <color name="jarvis_blue">#2196F3</color>
+    <color name="jarvis_blue_dark">#1565C0</color>
+    <color name="white">#FFFFFF</color>
+    <color name="listening_glow">#64B5F6</color>
+</resources>
